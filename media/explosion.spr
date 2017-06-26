@@ -1,0 +1,13 @@
+[sprite]
+Name = Explosion
+Texture = media/explosion.dds
+Blend = add
+
+[boom]
+Frames = 16
+FramesWidth = 128
+FramesHeight = 128
+Cols = 4
+CenterX = 64
+CenterY = 64
+FPS = 25

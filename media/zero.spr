@@ -1,0 +1,19 @@
+[sprite]
+Name = Zero
+Texture = media/zero.dds
+Blend = normal
+
+[idle]
+Frames = 4
+FramesWidth = 54
+FramesHeight = 54
+CenterX = 27
+FPS = 10
+
+[run]
+Frames = 14
+FramesX = 216
+FramesWidth = 54
+FramesHeight = 54
+CenterX = 27
+FPS = 20
